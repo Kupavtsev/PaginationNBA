@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f5f3019d4ce47a25b8d02b552fdfb88",
+    "revision": "e10599331a66d0f5e2f57495c706ea01",
     "url": "/PaginationNBA/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PaginationNBA/static/css/2.a65e9e88.chunk.css"
   },
   {
-    "revision": "8d1f33c50229a4fe4c80",
+    "revision": "acc5867edfd3518d4e74",
     "url": "/PaginationNBA/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PaginationNBA/static/js/2.bad3a579.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8d1f33c50229a4fe4c80",
-    "url": "/PaginationNBA/static/js/main.97b652f9.chunk.js"
+    "revision": "acc5867edfd3518d4e74",
+    "url": "/PaginationNBA/static/js/main.fdfd6884.chunk.js"
   },
   {
     "revision": "4ffff3c1209fea2f6c15",
