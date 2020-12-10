@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PaginationNBA/static/css/main.5f361e03.chunk.css",
+    "main.js": "/PaginationNBA/static/js/main.97b652f9.chunk.js",
+    "main.js.map": "/PaginationNBA/static/js/main.97b652f9.chunk.js.map",
+    "runtime-main.js": "/PaginationNBA/static/js/runtime-main.88e2a576.js",
+    "runtime-main.js.map": "/PaginationNBA/static/js/runtime-main.88e2a576.js.map",
+    "static/css/2.a65e9e88.chunk.css": "/PaginationNBA/static/css/2.a65e9e88.chunk.css",
+    "static/js/2.bad3a579.chunk.js": "/PaginationNBA/static/js/2.bad3a579.chunk.js",
+    "static/js/2.bad3a579.chunk.js.map": "/PaginationNBA/static/js/2.bad3a579.chunk.js.map",
+    "index.html": "/PaginationNBA/index.html",
+    "precache-manifest.79e5c2307a9af054afc78b5207e25b0d.js": "/PaginationNBA/precache-manifest.79e5c2307a9af054afc78b5207e25b0d.js",
+    "service-worker.js": "/PaginationNBA/service-worker.js",
+    "static/css/2.a65e9e88.chunk.css.map": "/PaginationNBA/static/css/2.a65e9e88.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/PaginationNBA/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bad3a579.chunk.js.LICENSE.txt": "/PaginationNBA/static/js/2.bad3a579.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88e2a576.js",
+    "static/css/2.a65e9e88.chunk.css",
+    "static/js/2.bad3a579.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.97b652f9.chunk.js"
+  ]
+}
