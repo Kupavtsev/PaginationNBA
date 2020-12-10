@@ -1,0 +1,32 @@
+NBA APIS:
+http://data.nba.net/
+
+API USED IN VIDEO
+
+Docs Links:
+This is going to index.js
+
+[react bootstrap table]
+import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css';
+
+https://react-bootstrap-table.github.io/react-bootstrap-table2/docs/getting-started.html
+
+
+[react bootstrap table pagination]
+import 'react-bootstrap-table2-paginator/dist/react-bootstrap-table2-paginator.min.css';
+
+https://react-bootstrap-table.github.io/react-bootstrap-table2/docs/basic-pagination.html
+
+
+[react bootstrap]
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+This is to index.html
+<link
+  rel="stylesheet"
+  href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+  integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
+  crossorigin="anonymous"
+/>
+
+https://react-bootstrap.github.io/getting-started/introduction/
